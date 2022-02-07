@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-Your text here
+Thank you
 Use the left arrow to begin!
